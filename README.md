@@ -1,2 +1,0 @@
-# rgpla
-tese
